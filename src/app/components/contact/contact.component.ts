@@ -1,3 +1,4 @@
+//C:\My project\frontend\src\app\components\contact\contact.component.ts
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
@@ -233,7 +234,7 @@ export class ContactComponent {
     console.log('Sending form data:', cleanFormData);
 
     try {
-      const response = await this.http.post('/api/contact', cleanFormData).toPromise();
+      const response = await this.http.post('https://portfolio-be-5rqa.onrender.com/api/contact', cleanFormData).toPromise();
       
       this.showSuccessNotification('Your message has been sent successfully! I\'ll get back to you soon.');
       this.resetForm();
