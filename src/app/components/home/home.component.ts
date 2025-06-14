@@ -42,7 +42,7 @@ import { CommonModule } from '@angular/common';
           
           <div class="home-image fade-in-right">
             <div class="image-container">
-              <img src="assets/profile blur.jpg" 
+              <img src="assets/R pic (1).jpg" 
                    alt="Ranjani Govindharaj" class="profile-img">
               <div class="image-bg"></div>
             </div>

@@ -44,7 +44,7 @@ import { CommonModule } from '@angular/common';
           
           <div class="about-image">
             <div class="image-wrapper">
-              <img src="assets/profile pic2.jpg" 
+              <img src="assets/profile pic22.jpg" 
                    alt="About Ranjani" class="about-img">
               <div class="floating-elements">
                 <div class="floating-element element-1">
