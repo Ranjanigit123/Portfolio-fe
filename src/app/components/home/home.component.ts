@@ -1,3 +1,4 @@
+//C:\My project\frontend\src\app\components\home\home.component.ts
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 

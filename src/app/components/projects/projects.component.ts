@@ -115,13 +115,13 @@ export class ProjectsComponent {
     },
     {
       id: 3,
-      title: 'My Portfolio',
-      description: 'Developed a professional portfolio to showcase projects, technical skills, and achievements. Integrated a dynamic contact form and chatbot (Collect.chat) for interactive user engagement.',
-      image: 'https://cdn.prod.website-files.com/606a802fcaa89bc357508cad/61701b4e166c837543d8f0ce_2_How%20To%20a%20Create%20Personal%20Portfolio%20Website.png',
-      technologies: ['Angular', 'Node.js', 'MongoDB', 'Express.js'],
-      demoUrl: 'https://ranjaniportfolio.netlify.app/',
-      githubUrl: 'https://github.com/Ranjanigit123/port-fe.git',
-      featured: false
+      title: 'Customer Churn Prediction System',
+      description: 'Developed an end-to-end customer churn prediction system using machine learning and deep learning to help telecom companies identify customers likely to leave.',
+      image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40sayedathar11%2Fcustomer-churn-prediction-end-to-end-machine-learning-case-study-c14cdc4d2c92&psig=AOvVaw0YJapb18HraQ6PIWlmgvAU&ust=1762794800626000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOi9ob3H5ZADFQAAAAAdAAAAABAK',
+      technologies: ['Python', 'FastAPI', 'Streamlit', 'TensorFlow/Keras', 'scikit-learn', 'Pandas', 'Plotly', 'Joblib', 'Kaggle Dataset (Telco-Customer-Churn)'],
+      demoUrl: 'https://839lf02v-8501.inc1.devtunnels.ms/',
+      githubUrl: 'https://github.com/Ranjanigit123/churn_prediction.git',
+      featured: true
     },
     {
       id: 4,
