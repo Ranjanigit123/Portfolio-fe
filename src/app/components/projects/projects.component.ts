@@ -117,7 +117,7 @@ export class ProjectsComponent {
       id: 3,
       title: 'Customer Churn Prediction System',
       description: 'Developed an end-to-end customer churn prediction system using machine learning and deep learning to help telecom companies identify customers likely to leave.',
-      image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.invitereferrals.com%2Fblog%2Fcustomer-churn-strategies%2F&psig=AOvVaw0YJapb18HraQ6PIWlmgvAU&ust=1762794800626000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOi9ob3H5ZADFQAAAAAdAAAAABAl',
+      image: 'https://daxg39y63pxwu.cloudfront.net/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png',
       technologies: ['Python', 'FastAPI', 'Streamlit', 'TensorFlow/Keras', 'scikit-learn', 'Pandas', 'Plotly', 'Joblib', 'Kaggle Dataset (Telco-Customer-Churn)'],
       demoUrl: 'https://839lf02v-8501.inc1.devtunnels.ms/',
       githubUrl: 'https://github.com/Ranjanigit123/churn_prediction.git',
